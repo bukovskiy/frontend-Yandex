@@ -1,0 +1,7 @@
+div :first-child :last-child {
+    color: red;
+}
+
+.container :nth-child(2n){
+    color: red;
+}
